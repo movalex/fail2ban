@@ -194,7 +194,7 @@ if obsoleteFiles:
 if isdir("/usr/lib/fail2ban"):
 	print("")
 	print("Fail2ban is not installed under /usr/lib anymore. The new "
-		  "location is under /usr/share. Please remove the directory "
+		  "location is under /usr/local. Please remove the directory "
 		  "/usr/lib/fail2ban and everything under this directory.")
 	print("")
 
@@ -204,3 +204,4 @@ if sys.argv[1] == "install":
 	print("Please do not forget to update your configuration files.")
 	print("They are in /etc/fail2ban/.")
 	print("")
+
