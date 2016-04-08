@@ -1,3 +1,4 @@
+<<<<<<< HEAD
                          __      _ _ ___ _               
                         / _|__ _(_) |_  ) |__  __ _ _ _  
                        |  _/ _` | | |/ /| '_ \/ _` | ' \ 
@@ -110,3 +111,7 @@ PARTICULAR PURPOSE. See the GNU General Public License for more details.
 You should have received a copy of the GNU General Public License along with
 Fail2Ban; if not, write to the Free Software Foundation, Inc., 51 Franklin
 Street, Fifth Floor, Boston, MA 02110, USA
+=======
+# fail2ban
+OSX 10.11 setup
+>>>>>>> 0112006049057cf162eed20c7bb7164ba5393826
