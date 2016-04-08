@@ -148,7 +148,7 @@ setup(
 		('/var/lib/fail2ban',
 			''
 		),
-		('/usr/local/doc/fail2ban',
+		('/usr/share/doc/fail2ban',
 			['README.md', 'README.Solaris', 'DEVELOP', 'FILTERS',
 			 'doc/run-rootless.txt']
 		)
